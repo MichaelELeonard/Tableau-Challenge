@@ -20,7 +20,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 In this initial submission I will be examining data covering the summer months of May, June & July from 2023 and looking to identify: 
 <br>
 <br>
-•	The top ten must successful Citi Bike Stations and identify why these specific locations have been successful.
+•	The top ten must successful Citi Bike Stations and identify the attributes that have helped make these specific locations successful.
 <br>
 •	Locate ten stations that have strong growth potential and identify strategies that may help them achieve their full potential.        
 
