@@ -1,4 +1,4 @@
-<img src="ReadME Pictures/Opening Pic.png" width="838" height="438">
+<img src="ReadME Pictures/Opening Pic.png" width="781" height="407">
 
 
 # Tableau Challenge
