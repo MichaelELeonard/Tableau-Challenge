@@ -13,7 +13,7 @@ Link to Citi Bike Tableau Storyboard - https://public.tableau.com/app/profile/mi
 
 As the new lead analyst for the [Citi Bike Program](https://citibikenyc.com/homepage), I oversee the largest bike sharing program in the United States. One of my responsibilities in this new role is to generate regular reports for city officials looking to publicize and improve the city program.
 
-Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
+Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, monthly data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
 
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have several questions regarding the program, so my first task is to build a set of visual reports to provide the data for strategic decision making. 
 
