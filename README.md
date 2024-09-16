@@ -3,6 +3,7 @@
 
 # Tableau Challenge
 
+Data Prep Code - https://github.com/MichaelELeonard/Tableau-Challenge/blob/main/CitiBikeCleaningCode.ipynb
 Link to [Citi Bike Tableau Storyboard](https://public.tableau.com/app/profile/michael.leonard4092/viz/TableauChallengeWeek18v2/May-July2023BikeStationsAnalysis?publish=yes)
 
 <br>
@@ -25,7 +26,7 @@ In this initial submission I will be examining data covering the summer months o
 <br>
 
 ## Data Preparation
-To prepare the data for analysis, the May, June & July data files for 2023 were downloaded from [Citi Bike Data](https://www.citibikenyc.com/system-data).  Each table was imported into a Pandas data frame for cleaning and the three individual data frames were joined using the pd.concat function. The code can be viewed [here.](https://github.com/MichaelELeonard/Tableau-Challange/blob/main/CitiBikeCleaningCode.ipynb)
+To prepare the data for analysis, the May, June & July data files for 2023 were downloaded from [Citi Bike Data](https://www.citibikenyc.com/system-data).  Each table was imported into a Pandas data frame for cleaning and the three individual data frames were joined using the pd.concat function.
 
 <br>
 
