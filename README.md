@@ -15,7 +15,7 @@ As the new lead analyst for the [Citi Bike Program](https://citibikenyc.com/home
 
 Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
 
-However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have several questions on the program, so my first task on the job is to build a set of data reports to provide the answers to key business needs to drive decision making. 
+However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have several questions regarding the program, so my first task is to build a set of visual reports to provide the data for strategic decision making. 
 
 In this initial submission I will be examining data covering the summer months of May, June & July from 2023 and looking to identify: 
 <br>
