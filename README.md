@@ -15,7 +15,7 @@ As the new lead analyst for the [Citi Bike Program](https://citibikenyc.com/home
 
 Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
 
-However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have a number of questions on the program, so my first task on the job is to build a set of data reports to provide the answers to key business needs to drive decision making. 
+However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have several questions on the program, so my first task on the job is to build a set of data reports to provide the answers to key business needs to drive decision making. 
 
 In this initial submission I will be examining data covering the summer months of May, June & July from 2023 and looking to identify: 
 <br>
@@ -41,7 +41,7 @@ To prepare the data for analysis, the May, June & July data files for 2023 were 
 
 ## The Top Ten Most Successful Citi Bike Stations 
 
-The top ten most successful Citi Bike Stations bike stations are listed below. Traditional bike usage significantly outnumbers electric bikes and daily peak check out times are 8am and 6pm. A strong contributing factor to these success of these stations appears to be their location, with stations near the scenic views of the Hudson River and downtown Jersey City locations proving to be popular with customers.
+The top ten most successful Citi Bike Stations bike stations are listed below. Traditional bike usage significantly outnumbers electric bikes and daily peak check out times are 8am and 6pm. A strong contributing factor to the success of these stations appears to be their location, with stations near the scenic views of the Hudson River and downtown Jersey City, proving to be popular with customers.
 
 <br>
 
@@ -55,7 +55,7 @@ The top ten most successful Citi Bike Stations bike stations are listed below. T
 
 ## High Growth Opportunity Stations    
 
-Ten high growth opportunity stations are outlined in the charts below. These locations were identified as having similar location traits as the higher performing stations. In addition to having scenic views of the Hudson River and downtown Jersey City locations, [Liberty State Park](https://visitnj.org/article/liberty-state-park) located just south of downtown Jersey City has been identified as a growth opportunity location. This 1,212 acre park offers a two-mile promenade titled the ‘Liberty Walk’, links to multiple picnic areas, interpretive center and terminal, and sweeping views of the Hudson River and Manhattan skyline.  There are ferry rides available to the Statue of Liberty and Elles Island, as well as boating and canoeing opportunities. With a new ad campaign and incentive program for our membership and casual riders, our ten high growth opportunity stations will see increased customer traffic. 
+Ten high growth opportunity stations are outlined in the charts below. These locations were identified as having similar location traits as the higher performing stations. In addition to having scenic views of the Hudson River and downtown Jersey City locations, [Liberty State Park](https://visitnj.org/article/liberty-state-park) located just south of downtown Jersey City has been identified as a growth opportunity location. This 1,212-acre park offers a two-mile promenade titled the ‘Liberty Walk’, links to multiple picnic areas, interpretive center and terminal, and sweeping views of the Hudson River and Manhattan skyline.  There are ferry rides available to the Statue of Liberty and Elles Island, as well as boating and canoeing opportunities. With a new ad campaign and incentive program for our membership and casual riders, our ten high growth opportunity stations will see increased customer traffic. 
 
 <br>
 
