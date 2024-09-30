@@ -26,7 +26,7 @@ In this initial submission I will be examining data covering the summer months o
 <br>
 
 ## Data Preparation
-To prepare the data for analysis, the May, June & July data files for 2023 were downloaded from [Citi Bike Data](https://www.citibikenyc.com/system-data).  Each table was imported into a Pandas DataFrame for cleaning and the three DataFrames were joined for analysis.
+To prepare the data for analysis, the May, June & July data files for 2023 were downloaded from [Citi Bike Data](https://www.citibikenyc.com/system-data).  Each table was imported into a DataFrame for cleaning and the three DataFrames were joined for analysis.
 
 <br>
 
