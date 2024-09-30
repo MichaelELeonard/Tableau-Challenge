@@ -7,7 +7,6 @@
 
 [Citi Bike Tableau Storyboard Link]( https://public.tableau.com/app/profile/michael.leonard4092/viz/TableauChallengeWeek18v2/May-July2023BikeStationsAnalysis?publish=yes)
 
-<br>
 
 ## Background
 
