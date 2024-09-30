@@ -3,9 +3,9 @@
 
 # Tableau Challenge
 
-Data Prep Code - https://github.com/MichaelELeonard/Tableau-Challenge/blob/main/CitiBikeCleaningCode.ipynb
+[Data Prep Code Link]( https://github.com/MichaelELeonard/Tableau-Challenge/blob/main/CitiBikeCleaningCode.ipynb)
 
-Link to Citi Bike Tableau Storyboard - https://public.tableau.com/app/profile/michael.leonard4092/viz/TableauChallengeWeek18v2/May-July2023BikeStationsAnalysis?publish=yes
+[Citi Bike Tableau Storyboard Link]( https://public.tableau.com/app/profile/michael.leonard4092/viz/TableauChallengeWeek18v2/May-July2023BikeStationsAnalysis?publish=yes)
 
 <br>
 
@@ -20,7 +20,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 In this initial submission I will be examining data covering the summer months of May, June & July from 2023 and looking to identify: 
 <br>
 <br>
-•	The top ten must successful Citi Bike Stations, and identify the attributes that have helped make these specific locations successful.
+•	The top ten must successful Citi Bike Stations and identify the attributes that have helped make these specific locations successful.
 <br>
 •	Locate ten stations that have strong growth potential and identify strategies that may help them achieve their full potential.        
 
@@ -72,7 +72,7 @@ Ten high growth opportunity stations are outlined in the charts below. These loc
 
 
 ## Conclusion
-The Citi Bike Program in the New York/New Jersey area is already the largest bike sharing program in the United States, but we continue to explore new opportunities for growth. With a new ad campaign and incentive program focused on growth oppertunities, Citi Bike will continue to be the leading bikeshare program in the nation.
+The Citi Bike Program in the New York/New Jersey area is already the largest bike sharing program in the United States, but we continue to explore new opportunities for growth. With a new ad campaign and incentive program focused on growth opportunities, Citi Bike will continue to be the leading bikeshare program in the nation.
 
 <br>
 
